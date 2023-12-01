@@ -5,7 +5,7 @@ import './crudComponents/Components.css'
 import LandingPage from './crudComponents/LandingPage';
 
 import AddUser from './crudComponents/AddUser';
-import HomePage from "./crudComponents/Homepage";
+import HomePage from "./crudComponents/HomePage";
 import UserLists from './crudComponents/UserLists';
 function App() {
   const navigate = useNavigate()
